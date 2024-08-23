@@ -1,0 +1,25 @@
+.relatorio{
+    width:78vw;
+    height:90vh;
+    position:absolute;
+    top:0;
+    right:0;
+}
+.relatorio h1{
+    font-family: arial;
+}
+
+.relatorio table{
+    width:100%;
+    font-family:  arial;
+}
+
+
+table th{
+    border-bottom: 1px #ddd solid;
+    text-align: left;
+}
+
+table td{
+    border-bottom:1px #ddd solid;
+}
