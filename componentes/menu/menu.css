@@ -9,7 +9,7 @@ html, body{
     border:1px rgb(127, 199, 127) solid;
     box-shadow: 0 0 1em rgb(0, 0, 0);
     background-color: #81F781;
-    position: absolute;
+    position: fixed;
     top:0;
     left:0;
 }

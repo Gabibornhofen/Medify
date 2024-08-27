@@ -8,7 +8,7 @@
 
         <section class =menu>
         <header>
-            <img src="../../assets/img/medify04.jpg">
+            <img src="../../assets/img/medify02.jpg">
             <h1>Medify</h1>
         </header>
         <nav>
